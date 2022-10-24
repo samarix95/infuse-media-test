@@ -1,0 +1,2 @@
+To launch
+docker-compose rm -s -f && docker-compose -f docker-compose.yml up --build
